@@ -1,0 +1,32 @@
+{
+  "name": "jusan-auth-task",
+  "version": "1.0.0",
+  "description": "��j\u0000u\u0000s\u0000a\u0000n\u0000-\u0000a\u0000u\u0000t\u0000h\u0000-\u0000t\u0000a\u0000s\u0000k\u0000\r\u0000 \u0000",
+  "targets": {
+    "main": false
+  },
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "start": "parcel src/index.html --port 3000 --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "eslint": "^8.33.0",
+    "stylelint": "^14.16.1"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singularity-camp/fe-2-project-auth-abakhytzhan.git"
+  },
+  "bugs": {
+    "url": "https://github.com/singularity-camp/fe-2-project-auth-abakhytzhan/issues"
+  },
+  "homepage": "https://github.com/singularity-camp/fe-2-project-auth-abakhytzhan#readme"
+}
